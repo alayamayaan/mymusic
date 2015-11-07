@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/alayamayaan/mymusic.png?label=ready&title=Ready)](https://waffle.io/alayamayaan/mymusic)
 # This will be a site about Alaya's favorite music
 ## Site outline
   1. **What kind of music I like**
